@@ -51,3 +51,7 @@ navigation:
   url: /about-us/index.html
 - text: Contact
   url: /contact/index.html
+- text: Accommodations
+  url: /accommodations/index.html
+- text: Music
+  url: /music/index.html
