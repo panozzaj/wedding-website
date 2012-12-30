@@ -2,8 +2,8 @@ safe:        false
 auto:        true
 server:      false
 server_port: 4000
-baseurl:    /
-url: http://monicaandanthony.com
+baseurl:     /
+url:         http://monicaandanthony.com
 
 source:      .
 destination: ./_site
@@ -40,4 +40,5 @@ kramdown:
     coderay_bold_every: 10
     coderay_css: style
 
-exclude: ["README.md"]
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'set_env.sh', 'Rakefile']
+
