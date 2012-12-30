@@ -37,14 +37,37 @@
 <body>
 
   <div class="container">
-    <div class="sixteen columns">
+    <div class="six columns">
       <div class="logo">
-        <h1 class="swirly mega" style="margin-top: 40px">
-          Monica &<br/>
-          &nbsp;Anthony
+        <h1 class="swirly mega title" style="margin-top: 40px">
+          <a href="/">
+            Monica &<br/>
+            &nbsp;Anthony
+          </a>
         </h1>
       </div>
       <hr />
+    </div>
+
+    <div class="ten columns">
+      {% unless page.layout == 'front' %}
+        <ul class="navigation">
+          {% for link in site.navigation %}
+            {% assign current = nil %}
+            {% if page.url == link.url or page.layout == link.layout %}
+              {% assign current = 'current' %}
+            {% endif %}
+
+            <li class="{% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
+              {% if current != 'current' %}
+                <a class="{{ current }}" href="{{ link.url }}">{{ link.text }}</a>
+              {% else %}
+                {{ link.text }}
+              {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      {% endunless %}
     </div>
 
     <div class="twelve columns offset-by-two">

@@ -26,3 +26,39 @@ h3 { font-size: 28px; line-height: 34px; margin-bottom: 8px; }
 h4 { font-size: 21px; line-height: 30px; margin-bottom: 4px; }
 h5 { font-size: 17px; line-height: 24px; }
 h6 { font-size: 14px; line-height: 21px; }
+
+h1.title a {
+  text-decoration: none;
+}
+
+h1.title a:hover {
+  color: #333;
+}
+
+a:hover {
+  color: #393;
+}
+
+//h1.title {
+//  text-indent: 1em;
+//  padding-left: -1em;
+//}
+
+.navigation {
+  margin: 10px;
+}
+
+.navigation li {
+  display: inline;
+  padding: 5px;
+  margin: 5px;
+}
+
+.navigation li a {
+  text-decoration: none;
+}
+
+.navigation li.current {
+  background-color: #333;
+  color: #eee;
+}

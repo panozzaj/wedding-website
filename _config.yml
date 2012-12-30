@@ -42,3 +42,10 @@ kramdown:
 
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'set_env.sh', 'Rakefile', 'set_env.sh.example']
 
+navigation:
+- text: Home
+  url: /index.html
+- text: The Big Day!
+  url: /wedding/index.html
+- text: About Us
+  url: /about-us/index.html
