@@ -49,3 +49,5 @@ navigation:
   url: /wedding/index.html
 - text: About Us
   url: /about-us/index.html
+- text: Contact
+  url: /contact/index.html
