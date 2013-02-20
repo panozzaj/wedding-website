@@ -47,6 +47,8 @@ navigation:
   url: /index.html
 - text: The Big Day!
   url: /wedding/index.html
+- text: Directions
+  url: /directions/index.html
 - text: About Us
   url: /about-us/index.html
 - text: Contact
@@ -55,3 +57,5 @@ navigation:
   url: /accommodations/index.html
 - text: Music
   url: /music/index.html
+- text: Gifts?
+  url: /gifts/index.html
