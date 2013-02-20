@@ -3,7 +3,9 @@ layout: default
 title: Directions
 ---
 
-### From Chicago or Lowell, Indiana:
+# Directions
+
+## From Chicago or Lowell, Indiana
 
 1. Take I-65 South towards Indianapolis
 1. Take exit 119 to merge onto West 38th street
@@ -11,7 +13,7 @@ title: Directions
 1. Turn Left onto North Michigan Road
 1. In 0.1 miles the museum entrance will be on your left
 
-### From Downtown Indianapolis:
+## From Downtown Indianapolis
 
 1. Take Meridian street north
 1. Turn left onto West 12th street
@@ -22,7 +24,7 @@ title: Directions
 1. Dr. Martin Luther King Jr. Street turns into Michigan Road after 1.1 miles
 1. Continue on Michigan Road another 0.1 miles and museum entrance will be on your left
  
-### From Drury Inn:
+## From Drury Inn
 
 1. Drive south on Michigan road 7 miles
 2. Museum entrance will be on your right
