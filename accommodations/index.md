@@ -16,7 +16,7 @@ Taxis to and from the IMA from most hotels would be about $15 to $20 each way.
 
 Our number one recommendation is [The Omni Severin Hotel][omni] ([map](http://goo.gl/maps/CY7Xs)), located in the center of downtown Indianapolis, attached to Circle Center Mall.
 
-This is an elegant 4+ Start rated hotel located within walking distance to many restaurants and retail stores. This is the best deal Monica found for a downtown location. It's about a 15 minute drive to the Indianapolis Museum of Art (IMA) by highway ([map](http://goo.gl/maps/pm5Eq)) or a 16 minute drive through town ([map](http://goo.gl/maps/Nzbtg)).
+This is an elegant 4+ star rated hotel located within walking distance to many restaurants and retail stores. This is the best deal Monica found for a downtown location. It's about a 15 minute drive to the Indianapolis Museum of Art (IMA) by highway ([map](http://goo.gl/maps/pm5Eq)) or a 16 minute drive through town ([map](http://goo.gl/maps/Nzbtg)).
 
 The nightly rate is $129 for single double bed. It is $139/night for triple/quad. Valet parking is an additional $20 dollars per night. You can also choose to park in [mall parking](http://circlecentermall.com/parking.html) (as the mall is attached to the Omni.)
 
@@ -46,7 +46,7 @@ The phone number is (317) 876-9777.
 
 Staybridge Suites is located in downtown Indianapolis ([map](http://goo.gl/maps/6ers7)). This newer hotel is located almost directly next to the Lucas Oil Stadium in a remote, industrial area of downtown. You would need to drive to places if you needed anything. The hotel is about a 15 minute drive to the IMA by highway ([map](http://goo.gl/maps/F4emj)) or through downtown ([map](http://goo.gl/maps/Q5W4A)).
 
-Studio queen suites are available for $94 dollars per room. There is a $14 parking fee.
+Studio queen suites are available for $94 dollars per room. There is a $14 self-parking fee.
 
 We have reserved 15 rooms for Friday and Saturday. Please make your reservation by March 24th to receive the group discount. Reservations should be made by phone at (317) 536-7500 (say that you are with the Panozzo-Mazda wedding.) An alternate phone number is (877) 238-8889.
 
@@ -54,7 +54,7 @@ The address is 535 S. West Street, Indianapolis, IN 46225.
 
 ### Wingate - West Side
 
-Wingate by Wyndham Rockville Road ([map](http://goo.gl/maps/kmVEK)) is a nice, basic, clean hotel with a pool and hot tub and a sports bar in the next parking lot.
+Wingate by Wyndham Rockville Road ([map](http://goo.gl/maps/kmVEK)) is a nice, basic, clean hotel with a pool and hot tub. Please check an online map like Google to see nearby amenities.
 
 We have reserved 15 rooms for Friday and Saturday (14 rooms with 2 queen beds and 1 room handicap-accessible with 2 double beds) The rate is $84.15 plus tax, and up to 4 people can stay in the room for no additional charge. They will hold the block of rooms until April 6 at which time the rooms will be available to the public. Reservations can be canceled until 6 PM on the first day of arrival without charges.
 
