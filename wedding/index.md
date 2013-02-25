@@ -19,4 +19,4 @@ The Indianapolis Museum of Art is located at 4000 Michigan Road, Indianapolis, I
 A short ceremony will take place at **5:30 PM Eastern Time** in an outdoor setting at the [Formal Gardens](http://www.imamuseum.org/about/facility-rentals/event-spaces/formal-garden) (weather permitting.)
 
 ## Reception
-After the reception, there will be an hour of cocktails at the [nearby reception area](http://www.imamuseum.org/about/facility-rentals/event-spaces/deer-zink-pavillion), followed by dinner, dancing, and other festivities.
+After the ceremony, there will be an hour of cocktails at the [nearby reception area](http://www.imamuseum.org/about/facility-rentals/event-spaces/deer-zink-pavillion), followed by dinner, dancing, and other festivities.
